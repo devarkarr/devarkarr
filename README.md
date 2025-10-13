@@ -5,6 +5,7 @@ I’m currently working on Fary and Xsphere from Yangon, Myanmar.
 ![TypeScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=typescript&color=3074BF)
 ![React.js](https://img.shields.io/badge/Library-ReactJs-61DAFB?logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Framework-Next.js-informational?style=flat&logo=next.js&color=000000)
+![Vitest](https://img.shields.io/badge/Testing-Vitest-6E9F18?style=flat&logo=vitest&color=729B1B)
 ![Laravel](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&color=FF2D20)
 ![PHP](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&color=777BB4)
 ![Vue.js](https://img.shields.io/badge/Library-Vue.js-35495E?logo=vuedotjs&logoColor=4FC08D)

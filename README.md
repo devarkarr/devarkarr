@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Arkar Lin!
+# 👋 Hello, I'm Ar Kar Lin!
 I’m passionate frontend developer on Fary and Xsphere from Yangon, Myanmar.
 
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E)

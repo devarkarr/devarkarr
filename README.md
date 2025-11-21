@@ -3,7 +3,7 @@ I’m passionate frontend developer on Fary and Xsphere from Yangon, Myanmar.
 
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=typescript&color=3074BF)
-![React.js](https://img.shields.io/badge/Library-ReactJs-61DAFB?logo=react&logoColor=white)
+![React.js](https://img.shields.io/badge/Library-ReactJs-61DAFB?logo=react&logoColor=57C4DC)
 ![Next.js](https://img.shields.io/badge/Framework-Next.js-informational?style=flat&logo=next.js&color=000000)
 ![Three.js](https://img.shields.io/badge/Library-Three.js-informational?style=flat&logo=three.js&color=000000)
 ![Vitest](https://img.shields.io/badge/Testing-Vitest-6E9F18?style=flat&logo=vitest&color=729B1B)

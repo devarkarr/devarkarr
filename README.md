@@ -18,6 +18,6 @@ Passionate developer with a solid foundation in both front-end and back-end. My 
 
 🔭 Leading teams on transformative projects to reshape industries.
 
-🌱 I’m currently learning Three js and React Native,
+🌱 I’m currently learning Deep Dive JavaScript and Protocol,
 
 🚀 Dedicated to pushing the boundaries of technology while fostering a culture of excellence.

@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Ar Kar Lin!
-I’m passionate a Frontend and Desktop developer on Fary and Xsphere from Yangon, Myanmar.
+I’m passionate a Frontend, Mobile and Desktop developer on Fary and Xsphere from Yangon, Myanmar.
 
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=typescript&color=3074BF)

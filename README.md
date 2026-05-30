@@ -2,8 +2,8 @@
 I’m passionate a Frontend and iOS Developer on Fary and Xsphere from Yangon, Myanmar.
 
 ![JavaScript](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&color=white)
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E)
-![TypeScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=typescript&color=3074BF)
+![JavaScript](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&color=white)
+![TypeScript](https://img.shields.io/badge/Typescript-informational?style=flat&logo=typescript&color=white)
 ![React.js](https://img.shields.io/badge/Library-ReactJs-61DAFB?logo=react&logoColor=57C4DC)
 ![ReactNative.js](https://img.shields.io/badge/Library-React%20native-61DAFB?&logo=React&logoColor=57C4DC)
 ![Expo](https://img.shields.io/badge/Framework-Expo-000000?logo=Expo&logoColor=white)

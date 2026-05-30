@@ -18,8 +18,8 @@ I’m passionate a Frontend and iOS Developer on Fary and Xsphere from Yangon, M
 
 Passionate developer with a solid foundation in both front-end and back-end. My adept problem-solving skills and proactive approach to learning new technologies ensure that I stay at the forefront of industry trends.
 
-🔭 Leading teams on transformative projects to reshape industries.
+🔭 Leading on transformative projects to reshape industries.
 
-🌱 I’m currently learning Deep Dive JavaScript and Protocol,
+🌱 I’m currently learning Deep Dive Swift,
 
 🚀 Dedicated to pushing the boundaries of technology while fostering a culture of excellence.
